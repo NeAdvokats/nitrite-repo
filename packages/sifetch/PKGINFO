@@ -1,2 +1,4 @@
 name = sifetch
 version = 1.6.0
+description = sifetch is a little fetch program written in C
+author = avudn
