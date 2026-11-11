@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "repository": "main",
+  "packages": [
+    {
+      "name": "sifetch",
+      "version": "1.6.0",
+      "archive": "https://raw.githubusercontent.com/NeAdvokats/nitrite-repo/main/archives/sifetch-1.6.0.tar.zst",
+      "sha256": "314e5ae227f26c52f7bd12174efba7a265323d41b200b038226c571a79405767"
+    }
+  ]
+}
