@@ -1,0 +1,4 @@
+name = cowsay
+version = 3.8.4
+description = Configurable talking cow for your terminal
+author = Tony Monroe and cowsay contributors
