@@ -13,6 +13,12 @@
       "version": "7.1.0",
       "archive": "https://raw.githubusercontent.com/NeAdvokats/nitrite-repo/main/archives/neofetch-7.1.0.tar.zst",
       "sha256": "b9de13579584ee49ed9060d2b5d77ba06fbf51f05f66ca67e38bfb5e7c095fcb"
+    },
+    {
+      "name": "cowsay",
+      "version": "3.8.4",
+      "archive": "https://raw.githubusercontent.com/NeAdvokats/nitrite-repo/main/archives/cowsay-3.8.4.tar.zst",
+      "sha256": "f829fdd02b66a954595d4c4ba5d609fb42c8803e2f509acb38e8bd80b25372e0"
     }
   ]
 }
